@@ -1,0 +1,163 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    box-sizing: border-box;
+}
+.dp{
+    left: 240px;
+    position: absolute;
+    top: 140px;
+    height: 168px;
+    width: 168px;
+    
+}
+ .info{
+    display: flex;
+    align-items:center ;
+    gap: 10px;
+    margin-top: 80px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.btn {
+    background-color: rgba(128, 128, 128, 0.398);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.data {
+    display: flex;
+    gap: 15px; 
+    color: gray; 
+}
+.data strong {
+    color: white;
+}
+.thread{
+    background-color: rgba(128, 128, 128, 0.398);
+    color: white;
+    border: none;
+    padding: 7px 7px;
+    border-radius: 20px;
+    display: flex;
+    gap: 7px; 
+}
+.About {
+    color: gray;
+    margin: 2px 0;
+    line-height: 1.2;
+}
+.About1 {
+    margin: 2px 0;
+    line-height: 1.2;
+}
+.address{
+    color: gray;
+    margin: 2px 0;
+    line-height: 1.2;
+}
+.external-link {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    gap: 5px;
+    margin: 2px 0;
+    line-height: 1.2;
+}
+
+.stories {
+    display: flex; 
+    gap: 80px;
+    margin-top: 30px; 
+    left: 240px;
+    position: absolute;
+}
+.story-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+.story-container div {
+    width: 80px; 
+    height: 80px;
+    border-radius: 50%;
+}
+.blueStory { 
+    background-color: #6495ED;  
+}
+.AquaStory { 
+    background-color: #AED6F1;
+}
+.RedStory { 
+    background-color: red; 
+}
+.hr{
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+    margin-top: 20px;
+}
+.tabs {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    margin-top: 200px;
+    font-size: small;
+    margin-bottom: 20px;
+}
+svg{
+    width: 15px;
+    height: 15px;
+}
+.posts{
+    gap: 20px;
+}
+.reels{
+    gap: 20px; 
+    color: gray;
+}
+.tags{
+    gap: 20px;
+    color: gray; 
+}
+.uploads{
+    display: flex;
+    gap: none;
+    left: 240px;
+    position: absolute; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
