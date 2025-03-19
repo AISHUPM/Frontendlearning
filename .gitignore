@@ -1,0 +1,29 @@
+.DS_Store
+.Trash/
+Library/
+Applications/
+Movies/
+Music/
+Pictures/
+Public/
+# Ignore system files
+.DS_Store
+.Trash/
+Library/
+Applications/
+Movies/
+Music/
+Pictures/
+Public/
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+eclipse/
+android/
+gradle/
+
+# Ignore logs and cache
+*.log
+node_modules/
+
